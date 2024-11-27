@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Visionary from "../Visionary/Visionary";
 import arrownext from "../../assets/images/Arrownext.png";
 import arrowprev from "../../assets/images/Arrowprev.png";
-import line2 from "../../assets/images/line2.png";
+import line2 from "../../assets/images/Line2.png";
 
 const Gallery = () => {
   const galleryImages = [
