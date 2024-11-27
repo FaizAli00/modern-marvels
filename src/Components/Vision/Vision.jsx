@@ -1,12 +1,13 @@
 import React from "react";
 import listingphoto2 from "../../assets/images/listingphoto2.png";
 import listingphoto3 from "../../assets/images/listingphoto3.png";
-import line1 from "../../assets/images/line1.png";
+import line1 from "../../assets/images/Line1.png";
 import listingphoto4 from "../../assets/images/listingphoto4.png";
 import listingphoto5 from "../../assets/images/listingphoto5.png";
 import listingphoto6 from "../../assets/images/listingphoto6.png";
 import Gallery from "../Gallery/Gallery";
-
+ 
+ 
 const Vision = () => {
   return (
     <>
