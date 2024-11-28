@@ -128,7 +128,7 @@ const Inquire = () => {
               CONTACT EMAIL
             </strong>{" "}
             <br />
-            <span className="font-AdobeGaramondPro">Nadir@dlbrugs.com</span>
+            <span className="font-AdobeGaramondPro">Nader@dlbrugs.com</span>
           </p>
           <p className="text-customGray">
             <strong className="text-sm font-GTAmericaTrial font-medium leading-[14px]">
