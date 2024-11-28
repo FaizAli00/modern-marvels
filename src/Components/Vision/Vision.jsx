@@ -106,7 +106,7 @@ const Vision = () => {
         </div>
 
         <div className="text-xs md:text-sm flex items-center font-normal text-customVision font-AdobeGaramondPro leading-5 md:leading-6 lg:leading-7 max-w-lg text-center md:text-left mx-auto md:mx-0">
-          <p>
+          <p className="mx-auto pl-4 pr-4 md:pl-8 md:pr-8 lg:pl-0 lg:pr-0 text-left md:text-center lg:text-left">
             Inspired by the charm of Great Neck’s architectural{" "}
             <br className="hidden md:block" />
             heritage, every room is crafted to harmonize style{" "}
@@ -140,7 +140,7 @@ const Vision = () => {
         </div>
 
         <div className="flex flex-col lg:items-start md:items-center sm:items-center gap-8 sm:gap-10 lg:gap-[60px] lg:mt-[60px] font-AdobeGaramondPro font-normal leading-6 md:leading-7 lg:leading-8 text-sm md:text-base text-customVision">
-          <p className="mx-auto text-center lg:text-left">
+          <p className="mx-auto pl-4 pr-4 md:pl-8 md:pr-8 lg:pl-0 lg:pr-0 text-left md:text-center lg:text-left">
             This brand-new modern all glass construction in the{" "}
             <br className="hidden md:block" />
             prestigious Village of Kings Point is a masterpiece of{" "}

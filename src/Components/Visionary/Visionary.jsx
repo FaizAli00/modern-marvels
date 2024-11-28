@@ -6,11 +6,11 @@ const Visionary = () => {
   return (
     <>
       <div className=" lg:mt-[100px] px-6 md:px-12 lg:px-[70px]">
-        <div className=" lg:pl-28 md:text-center md:pl-2">
+        <div className=" lg:pl-18 md:text-center md:pl-2">
           <h1 className="text-customVision md:pr-20 font-thin font-CanelaTrial sm:leading-[60px] md:leading-[100px] lg:leading-[130px] text-4xl sm:text-3xl md:text-6xl lg:text-[130px] md:pl-24 lg:pl-44 text-center lg:text-left">
             MEET
           </h1>
-          <h1 className="text-4xl md:pr-20 gap-5 flex items-baseline mx-auto justify-center relative sm:text-3xl text-nowrap  md:text-6xl lg:text-[130px] font-thin leading-[70px] sm:leading-[50px] md:leading-[100px] lg:leading-[130px] text-customGray text-center lg:text-left">
+          <h1 className="text-4xl md:pr-24 gap-5 flex items-baseline mx-auto justify-center relative sm:text-3xl text-nowrap  md:text-6xl lg:text-[130px] font-thin leading-[70px] sm:leading-[50px] md:leading-[100px] lg:leading-[130px] text-customGray text-center lg:text-left">
             <span className="text-3xl md:text-4xl lg:text-6xl italic font-thin font-CanelaTrial text-customGray">
               the
             </span>{" "}
