@@ -19,6 +19,7 @@ const Visionary = () => {
             </span>
           </h1>
         </div>
+        
 
         <div className="container mx-auto flex flex-col lg:flex-row lg:items-center px-4 md:px-8 lg:px-0">
           {/* Text Section */}
